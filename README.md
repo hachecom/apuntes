@@ -1,2 +1,2 @@
-# apuntes
-useful code snippets done/used/found during my learning process. different levels of complexity.
+# Apuntes
+Artificial Intelligence using Python, TensorFLow, Keras. Different levels of complexity.
